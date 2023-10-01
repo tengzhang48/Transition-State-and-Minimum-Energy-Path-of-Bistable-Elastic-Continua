@@ -1,0 +1,1 @@
+# Transition-State-and-Minimum-Energy-Path-of-Bistable-Elastic-Continua
