@@ -1,0 +1,5 @@
+This folder contains 4 ABAQUS simulation files. 
+"t1_L10_theta45-50_TwoBeam_mu1_lambda3_Indent12_Dynamic.inp" is for the dynamics simulation in Figure 11 in the paper.
+"t1_L10_theta45-50_TwoBeam_mesh4-50_mu1_lambda3.inp" is for the static simulation in Figure 11 in the paper.
+"t05_L10_theta50_50_1unit_dynamics_c460_0929.inp" is a tutorial example of an unsuccessful reconfiguration of a 1unit structure under simple mechanical compression. 
+"t05_L10_theta50_50_4unit_dynamics_c460_0929.inp" is a tutorial example of a successful reconfiguration of a 4unit structure under simple mechanical compression. 
